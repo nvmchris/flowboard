@@ -16,8 +16,8 @@
 ### [Live demo →](https://nvmchris.github.io/flowboard/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.png" />
-  <img src="docs/screenshot-light.png" alt="Flowboard screenshot showing a product roadmap board with four columns" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.webp" />
+  <img src="docs/screenshot-light.webp" alt="Flowboard screenshot showing a product roadmap board with four columns" width="100%" />
 </picture>
 
 </div>
